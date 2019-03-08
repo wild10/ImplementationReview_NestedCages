@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmeshfix.a  CMakeFiles/meshfix.dir/meshfix.cpp.o
+/usr/bin/ranlib libmeshfix.a
